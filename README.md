@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
+![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Anirban Sharma</h1>
 <h3 align="center">Full Stack Web Developer from West-Bengal,India</h3>
 
