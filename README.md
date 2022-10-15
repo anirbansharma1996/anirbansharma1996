@@ -25,8 +25,30 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirbansharma1996&show_icons=true&locale=en&layout=compact" alt="anirbansharma1996" /></p>
+<h2 align="center">📊 My Github Stats</h2>
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/rishunayak/github-readme-stats"><img alt="rishunayak Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishunayak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/rishunayak/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rishunayak&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>                                                                                                                                              
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirbansharma1996&show_icons=true&locale=en" alt="anirbansharma1996" /></p>
+  <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/rishunayak/github-readme-stats"><img alt="rishunayak Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishunayak&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
+    </p>                                                                 
+ <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirbansharma1996&" alt="anirbansharma1996" /></p>
+
+<br/>
+<br/>
+
+<a href="https://github.com/rishunayak/github-readme-activity-graph"><img alt="rishunayak Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rishunayak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
