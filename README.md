@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anirban-sharma1996/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/anirban-sharma1996/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anirban-sharma1996/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/anirban-sharma1996/" height="40" width="40" /></a>
 <a href="https://instagram.com/_.cartoonwala._?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png" alt="/cartoonwala/" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
