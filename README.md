@@ -28,19 +28,19 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/rishunayak/github-readme-stats"><img alt="rishunayak Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishunayak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbansharma1996&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/rishunayak/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rishunayak&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/anirbansharma1996/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anirbansharma1996&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/rishunayak/github-readme-stats"><img alt="rishunayak Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishunayak&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
+    <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirbansharma1996&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rishunayak/github-readme-activity-graph"><img alt="rishunayak Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rishunayak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/anirbansharma1996/github-readme-activity-graph"><img alt="anirbansharma1996 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anirbansharma1996&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
