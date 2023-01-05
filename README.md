@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg)
 <h1 align="center">Hi 👋, I'm Anirban Sharma</h1>
 <h3 align="center">Full Stack Web Developer from West-Bengal,India</h3>
 <p>
