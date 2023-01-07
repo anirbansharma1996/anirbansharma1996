@@ -55,27 +55,11 @@
 </div> </p>
 
 <h2 align="center">📊 My Github Stats</h2>
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirbansharma1996&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   <p align="center">
-    <a href="https://github.com/anirbansharma1996/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anirbansharma1996&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>                                                                                                                                              
-
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirbansharma1996&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
-    </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-
-
-<br/>
-<br/>
-
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=anirbansharma1996&theme=react"><img alt="anirbansharma1996 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anirbansharma1996&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshvyavhare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshvyavhare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshvyavhare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokeshvyavhare&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokeshvyavhare&theme=solarized_dark&utcOffset=8">
+	
+</p>
