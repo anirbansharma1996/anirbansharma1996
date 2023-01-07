@@ -58,6 +58,20 @@
    <br/>   
     <p align="center">      
   <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirbansharma1996&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<div align="center">
+<p>Contributions in the past 365 Days</p>
+</div>
+<script>
+
+  GitHubCalendar(
+    ".calendar",
+    "jsolly", {
+    global_stats: false,
+    responsive: true,
+
+  });
+ </script>
+ ------------------------------------------
       </p>      
      <br/>
    <p align="center">
