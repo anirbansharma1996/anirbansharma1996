@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ChakraUI,React Native,Node JS**
+- 💬 Ask me about **HTML,CSS,JavaScript,ChakraUI,React JS,Express JS,Node JS,MongoDB,Next JS,TypeScript**
 
 - 📫 How to reach me **anirbansharma36@gmail.com**
 
