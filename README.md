@@ -4,7 +4,7 @@
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=white&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbansharma1996&label=Profile%20views&color=0e75b6&style=flat" alt="anirban" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/anirban-sharma1996/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="anirbansharma1996" height="40" width="40" /></a> </p>
