@@ -7,8 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbansharma1996&label=Profile%20views&color=0e75b6&style=flat" alt="anirban" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/anirban-sharma1996/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="anirbansharma1996" height="40" width="40" /></a> </p>
-
 ### 👨‍💻 About Me
 I am an **Adept Full Stack Developer** with a proven track record of enhancing operational efficiency through innovative web solutions. Currently serving as a **System Engineer at Tata Consultancy Services (TCS)**, I specialize in building scalable applications using the MERN stack, Next.js, and TypeScript.
 
