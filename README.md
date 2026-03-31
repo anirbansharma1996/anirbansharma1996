@@ -9,13 +9,15 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/anirban-sharma1996/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="anirbansharma1996" height="40" width="40" /></a> </p>
 
-- 🔭 I’m currently working on  **REACT NATIVE** .
+### 👨‍💻 About Me
+I am an **Adept Full Stack Developer** with a proven track record of enhancing operational efficiency through innovative web solutions. Currently serving as a **System Engineer at Tata Consultancy Services (TCS)**, I specialize in building scalable applications using the MERN stack, Next.js, and TypeScript.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 **Current Role:** System Engineer at **TCS** (Kolkata).
+- 🚀 **Past Experience:** Backend Engineer at **fluttr Digimate** & Full Stack Dev at **RG Technologies**.
+- 🌱 **Learning & Exploring:** Advanced GIS Applications, Cloud Architectures, and AI-driven development.
+- 💬 **Ask me about:** React, Node.js, Next.js, Redux, MongoDB, and Agile Methodologies.
+- 📫 **Reach me at:** [anirbansharma36@gmail.com](mailto:anirbansharma36@gmail.com)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ChakraUI,React JS,Express JS,Node JS,MongoDB,Next JS,TypeScript**
-
-- 📫 How to reach me **anirbansharma36@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
